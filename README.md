@@ -32,7 +32,7 @@ Register Number: 212220230049 /*
 
 ``` Python
 # Get the input String
-string = 'God is Love'
+string = input('Enter the string: ')
 class NodeTree(object):
     def __init__(self, left=None, right=None): 
         self.left = left
@@ -94,7 +94,8 @@ for (char, frequency) in freq:
 ## Output:
 
 ### Print the characters and its huffmancode
-![Dip_O1](https://user-images.githubusercontent.com/77089743/174429101-a7a834a7-eef3-4b70-b2d1-47e0c39c01d9.PNG)
+
+![WhatsApp Image 2022-06-18 at 3 48 53 PM](https://user-images.githubusercontent.com/77089743/174433638-b913d70a-3077-4b87-87c9-ef76e5c26085.jpeg)
 
 
 
